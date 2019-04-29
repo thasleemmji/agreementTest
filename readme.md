@@ -41,7 +41,9 @@ php artisan key:generate
 ```
 5 .Create an empty database for our application
 
-6. In the .env file, add database information to allow Laravel to connect to the database
+
+6. In the .env file, add database information to allow the application to connect to the database
+
 
 7 .Migrate the database
 ```
