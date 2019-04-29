@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <link rel="shortcut icon" href="{{ asset('/images/favicon.png') }}">
 
-    <title>{{ucwords(Auth::user()->name)}} | {{config('app.name')}}</title>
+    <title>{{ucwords(Auth::user()->name)}} | Agent Agreement System</title>
     <!-- COOMON CSS -->
     <link href="{{ asset('/css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ asset('/css/font-awesome.min.css') }}" rel="stylesheet">
