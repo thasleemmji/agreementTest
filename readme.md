@@ -60,7 +60,7 @@ That's it, You are pretty good to go and start the application.
 
 ## Running the tests
 
-Login as Admin > Create new Agreements
+Login as Admin > Create new Agreements &
 Login as an Agent > 'Accept & Continue'  the new agreements
 
 ## Built With
