@@ -14,16 +14,24 @@ Need to have basic knowledge of Laravel PHP framework and other web related tech
 
 A step by step series of examples that tell you how to get a development env running
 
-Open Command Prompt and chnage the directory to the required location (using cd command) and run the following:
+Open Command Prompt and change the directory to the required location (using cd command) and run the following to Clone the project:
 
 ```
 git clone https://github.com/thasleemmji/agreementTest.git projectName
 ```
 
 cd into your project directory
+Now Install Composer Dependencies for this project
 
 ```
-until finished
+composer install
+```
+
+Create a copy of your .env file
+
+```
+cp .env.example .env (Linux)
+copy .env.example .env (Windows)
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
