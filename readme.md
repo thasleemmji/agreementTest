@@ -14,13 +14,13 @@ Need to have basic knowledge of Laravel PHP framework and other web related tech
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Open Command Prompt and chnage the directory to the required location (using cd command) and run the following:
 
 ```
-Give the example
+git clone https://github.com/thasleemmji/agreementTest.git projectName
 ```
 
-And repeat
+cd into your project directory
 
 ```
 until finished
