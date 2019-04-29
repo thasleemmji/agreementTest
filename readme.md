@@ -30,8 +30,9 @@ composer install
 Create a copy of your .env file
 
 ```
-cp .env.example .env (Linux)
-copy .env.example .env (Windows)
+* cp .env.example .env (Linux)
+
+* copy .env.example .env (Windows)
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
