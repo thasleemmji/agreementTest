@@ -20,8 +20,7 @@ A step by step series of examples that tell you how to get a development env run
 git clone https://github.com/thasleemmji/agreementTest.git projectName
 ```
 
-2 .cd into your project directory
-   Now Install Composer Dependencies for this project
+2 .cd into your project directory. Now Install Composer Dependencies for this project
 
 ```
 composer install
@@ -34,21 +33,23 @@ cp .env.example .env (Linux)
 
 copy .env.example .env (Windows)
 ```
+
 4. Generate an app encryption key
 
 ```
 php artisan key:generate
 ```
-5 .Create an empty database for our application
 
+5 .Create an empty database for our application
 
 6. In the .env file, add database information to allow the application to connect to the database
 
-
 7 .Migrate the database
+
 ```
 php artisan migrate
 ```
+
 8. Now Seed the database with random data
 
 ```
